@@ -1,0 +1,35 @@
+* {
+  box-sizing: border-box;
+}
+
+#main-content {
+  width: 480px;
+  padding: 10px;
+  margin: 0 auto;
+  background-color: beige;
+}
+
+h1 {
+  font-family: Consolas, sans-serif;
+  text-align: center;
+  color: tomato;
+  font-size: 2em;
+  margin-bottom: 0;
+}
+
+p {
+  font-family: "Courier New", sans-serif;
+  font-size: 1.5em;
+  color: navy;
+}
+
+.banner {
+  text-align: center;
+  color: green;
+  background-color: khaki;
+  border-radius: 5px;
+}
+
+a:hover {
+  background-color: aquamarine;
+}
